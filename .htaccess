@@ -1,0 +1,3 @@
+<Files "apple-app-site-association">
+    AddType application/json .json
+</Files>
